@@ -1,0 +1,653 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\course2\\semester2\\Pattern\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\singleton\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\singleton\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\singleton\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\singleton\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\prototype\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\prototype\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\prototype\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\prototype\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\prototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\prototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\builder\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\builder\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\windowstextfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\windowstextfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\windowsbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\windowsbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\builder\\pizzadirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\builder\\pizzadirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\builder\\pizzabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\builder\\pizzabuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\builder\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\builder\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\ibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\ibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\windowsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\windowsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\windowscheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\windowscheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\factory_method\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\factory_method\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\webfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\webfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\webtextfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\webtextfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\macfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\macfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\iuifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\iuifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\webcheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\webcheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\webbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\webbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\mactextfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\mactextfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\maccheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\maccheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\macbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\macbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\itextfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\itextfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\abstract_factory\\icheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\abstract_factory\\icheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\factory_method\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\factory_method\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\factory_method\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\factory_method\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\factory_method\\telegramnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\factory_method\\telegramnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\factory_method\\smsnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\factory_method\\smsnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\factory_method\\emailnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\factory_method\\emailnotificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\factory_method\\notificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\factory_method\\notificationcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\factory_method\\telegramnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\factory_method\\telegramnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\designpatterns\\creational\\factory_method\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\designpatterns\\creational\\factory_method\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|d:\\course2\\semester2\\pattern\\lab1\\lab1\\lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37254685-126A-44FB-96A2-3D6644EB2BC6}|lab1\\lab1.csproj|solutionrelative:lab1\\lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\singleton\\Client.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\singleton\\Client.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\singleton\\Client.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\singleton\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:38:14.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\singleton\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\singleton\\ShoppingCart.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\singleton\\ShoppingCart.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\singleton\\ShoppingCart.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:37:58.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\prototype\\Client.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\prototype\\Client.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\prototype\\Client.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\prototype\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:31:09.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrototype.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\prototype\\IPrototype.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\prototype\\IPrototype.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\prototype\\IPrototype.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\prototype\\IPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:30:59.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\prototype\\Monster.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\prototype\\Monster.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\prototype\\Monster.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\prototype\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:30:44.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\Program.cs",
+              "RelativeDocumentMoniker": "lab1\\Program.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\Program.cs",
+              "RelativeToolTip": "lab1\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T11:54:55.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\Client.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\Client.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\Client.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\Client.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:18:42.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\builder\\Client.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\builder\\Client.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\builder\\Client.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\builder\\Client.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:13:57.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\builder\\Pizza.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\builder\\Pizza.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\builder\\Pizza.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\builder\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:12:15.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WindowsTextField.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsTextField.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsTextField.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsTextField.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsTextField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:15:29.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IButton.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\IButton.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\IButton.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\IButton.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\IButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:14:19.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WindowsFactory.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsFactory.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsFactory.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsFactory.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsFactory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:17:51.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebTextField.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WebTextField.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\WebTextField.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WebTextField.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\WebTextField.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:17:21.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WindowsButton.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsButton.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsButton.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsButton.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:15:04.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PizzaBuilder.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\builder\\PizzaBuilder.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\builder\\PizzaBuilder.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\builder\\PizzaBuilder.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\builder\\PizzaBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:12:29.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PizzaDirector.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\builder\\PizzaDirector.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\builder\\PizzaDirector.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\builder\\PizzaDirector.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\builder\\PizzaDirector.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:12:44.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebFactory.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WebFactory.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\WebFactory.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WebFactory.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\WebFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:18:23.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\Notification.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\factory_method\\Notification.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\Notification.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\factory_method\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:51:11.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WindowsCheckbox.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsCheckbox.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsCheckbox.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsCheckbox.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\WindowsCheckbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:15:17.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MacFactory.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\MacFactory.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\MacFactory.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\MacFactory.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\MacFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:18:09.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUIFactory.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\IUIFactory.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\IUIFactory.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\IUIFactory.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\IUIFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:17:37.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebCheckbox.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WebCheckbox.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\WebCheckbox.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WebCheckbox.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\WebCheckbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:17:04.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WebButton.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WebButton.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\WebButton.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\WebButton.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\WebButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:16:47.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MacTextField.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\MacTextField.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\MacTextField.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\MacTextField.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\MacTextField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:16:15.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MacCheckbox.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\MacCheckbox.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\MacCheckbox.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\MacCheckbox.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\MacCheckbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:16:02.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MacButton.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\MacButton.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\MacButton.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\MacButton.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\MacButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:15:50.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITextField.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\ITextField.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\ITextField.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\ITextField.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\ITextField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:14:49.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICheckbox.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\ICheckbox.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\abstract_factory\\ICheckbox.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\abstract_factory\\ICheckbox.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\abstract_factory\\ICheckbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:14:35.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\factory_method\\EmailNotification.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\EmailNotification.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\factory_method\\EmailNotification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:51:26.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\Client.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\factory_method\\Client.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\Client.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\factory_method\\Client.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:53:26.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TelegramNotificationCreator.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\TelegramNotificationCreator.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\factory_method\\TelegramNotificationCreator.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\TelegramNotificationCreator.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\factory_method\\TelegramNotificationCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:53:13.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SmsNotificationCreator.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\SmsNotificationCreator.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\factory_method\\SmsNotificationCreator.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\SmsNotificationCreator.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\factory_method\\SmsNotificationCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:52:48.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmailNotificationCreator.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\EmailNotificationCreator.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\factory_method\\EmailNotificationCreator.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\EmailNotificationCreator.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\factory_method\\EmailNotificationCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:52:34.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NotificationCreator.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\NotificationCreator.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\factory_method\\NotificationCreator.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\NotificationCreator.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\factory_method\\NotificationCreator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:52:19.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TelegramNotification.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\TelegramNotification.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\factory_method\\TelegramNotification.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\TelegramNotification.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\factory_method\\TelegramNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:52:03.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SmsNotification.cs",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\SmsNotification.cs",
+              "RelativeDocumentMoniker": "lab1\\DesignPatterns\\creational\\factory_method\\SmsNotification.cs",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\DesignPatterns\\creational\\factory_method\\SmsNotification.cs",
+              "RelativeToolTip": "lab1\\DesignPatterns\\creational\\factory_method\\SmsNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:51:48.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "lab1",
+              "DocumentMoniker": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\lab1.csproj",
+              "RelativeDocumentMoniker": "lab1\\lab1.csproj",
+              "ToolTip": "D:\\course2\\semester2\\Pattern\\lab1\\lab1\\lab1.csproj",
+              "RelativeToolTip": "lab1\\lab1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-05T12:00:42.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

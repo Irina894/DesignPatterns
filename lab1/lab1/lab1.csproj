@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DesignPatterns\NewFolder1\**" />
+    <EmbeddedResource Remove="DesignPatterns\NewFolder1\**" />
+    <None Remove="DesignPatterns\NewFolder1\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DesignPatterns\behavioral\" />
+    <Folder Include="DesignPatterns\structural\" />
+  </ItemGroup>
+
+</Project>
