@@ -1,0 +1,23 @@
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.suo
+*.vscode/
+*.idea/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Rider / JetBrains IDE
+*.iml
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
