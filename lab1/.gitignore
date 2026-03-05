@@ -21,3 +21,4 @@ Desktop.ini
 # Resharper
 _ReSharper*/
 *.DotSettings.user
+*.vs/
