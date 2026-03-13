@@ -9,13 +9,15 @@
 
   <ItemGroup>
     <Compile Remove="DesignPatterns\NewFolder1\**" />
+    <Compile Remove="DesignPatterns\structural\j\**" />
     <EmbeddedResource Remove="DesignPatterns\NewFolder1\**" />
+    <EmbeddedResource Remove="DesignPatterns\structural\j\**" />
     <None Remove="DesignPatterns\NewFolder1\**" />
+    <None Remove="DesignPatterns\structural\j\**" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="DesignPatterns\behavioral\" />
-    <Folder Include="DesignPatterns\structural\" />
   </ItemGroup>
 
 </Project>

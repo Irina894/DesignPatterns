@@ -15,9 +15,6 @@ namespace DesignPatterns.creational.factory_method
             creator = new EmailNotificationCreator();
             creator.SendNotification("Hello via Email!");
 
-            creator = new SmsNotificationCreator();
-            creator.SendNotification("Hello via SMS!");
-
             creator = new TelegramNotificationCreator();
             creator.SendNotification("Hello via Telegram!");
         }
