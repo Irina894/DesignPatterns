@@ -16,8 +16,4 @@
     <None Remove="DesignPatterns\structural\j\**" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DesignPatterns\behavioral\" />
-  </ItemGroup>
-
 </Project>

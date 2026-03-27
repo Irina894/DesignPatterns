@@ -8,11 +8,21 @@ using BridgeClient = DesignPatterns.structural.bridge.Client;
 using CompositeClient = DesignPatterns.structural.composite.Client;
 using ObjectPoolClient = DesignPatterns.creational.object_pool.Client;
 using DecoratorClient = DesignPatterns.structural.decorator.Client;
-using FacadeClient  = DesignPatterns.structural.facade.Client;
+using FacadeClient = DesignPatterns.structural.facade.Client;
 using FlyweightClient = DesignPatterns.structural.flyweight.Client;
 using ProxyClient = DesignPatterns.structural.proxy.Client;
-
+using Chainofresponsibilty = DesignPatterns.behavioral.chainofresponsibility.Client;
+using Command = DesignPatterns.behavioral.command.Client;
+using Iterator = DesignPatterns.behavioral.iterator.Client;
+using Mediator = DesignPatterns.behavioral.mediator.Client;
+using Memento = DesignPatterns.behavioral.memento.Client;
+using Observer = DesignPatterns.behavioral.observer.Client;
+using State = DesignPatterns.behavioral.state.Client;
+using Strategy = DesignPatterns.behavioral.strategy.Client;
+using TemplateMethod = DesignPatterns.behavioral.templatemethod.Client;
+using Visitor = DesignPatterns.behavioral.visitor.Client;
 using DesignPatterns.creational.abstract_factory;
+
 
 
 namespace lab1
@@ -86,6 +96,52 @@ namespace lab1
                 Console.WriteLine();
                 Console.WriteLine("===== PROXY =====");
                 ProxyClient.Run();
+
+                Console.WriteLine();
+                Console.WriteLine("===== CHAIN OF RESPONSIBILITY =====");
+                Chainofresponsibilty.Run();
+
+                Console.WriteLine();
+                Console.WriteLine("===== COMMAND =====");
+                Command.Run();
+
+                Console.WriteLine();
+                Console.WriteLine("===== ITERATOR =====");
+                Iterator.Run();
+
+                    Console.WriteLine();
+                    Console.WriteLine("===== MEDIATOR =====");
+                    Mediator.Run();
+
+                    Console.WriteLine();
+                    Console.WriteLine("===== MEMENTO =====");
+                    Memento.Run();
+
+                    Console.WriteLine();
+                    Console.WriteLine("===== OBSERVER =====");
+                    Observer.Run();
+
+                    Console.WriteLine();
+                    Console.WriteLine("===== STATE =====");
+                    State.Run();
+
+
+                Console.WriteLine();
+                Console.WriteLine("===== STRATEGY =====");
+                Strategy.Run();
+
+                Console.WriteLine();
+                Console.WriteLine("===== TEMPLATE METHOD =====");
+                TemplateMethod.Run();
+
+                Console.WriteLine();
+                Console.WriteLine("===== VISITOR =====");
+                Visitor.Run();
+
+                Console.WriteLine("\nPress any key to exit...");
+                Console.ReadKey();
+
+
 
             }
         }
